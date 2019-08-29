@@ -9,10 +9,10 @@ import tweepy
 import json
 import csv
 
-consumer_key = 'ehGZAttdwBS7DVI7UqUmcvgGI'
-consumer_secret = 'HPWF8uPruCLFkUYHBPCCHe2EPHJDjgKjeffvorPIbS4vqqBtp5'  #Authentication keys
-access_token = '1047152924013539328-Sgt0H68saKhMZMX2TOHXQnvoIha1TG'
-access_secret = 'bYwzXccuclNipmrzp5Ep15ppSBcbZ3Q6lsrxdgVSvfgwu'
+consumer_key = 'Enter your twitter consumer_key here'
+consumer_secret = 'Enter your twitter consumer_key here'  #Authentication keys
+access_token = 'Enter your twitter access_token here'
+access_secret = 'Enter your twitter access_secret here'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret) #create authentcation handler
 
